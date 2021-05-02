@@ -1,0 +1,2 @@
+# JnsScriptHUB
+yes
